@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "pass_key" "\0"
+            VALUE "FileDescription", "PassKey" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "pass_key" "\0"
+            VALUE "InternalName", "PassKey" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 PassKey. All rights reserved." "\0"
-            VALUE "OriginalFilename", "pass_key.exe" "\0"
-            VALUE "ProductName", "pass_key" "\0"
+            VALUE "OriginalFilename", "PassKey.exe" "\0"
+            VALUE "ProductName", "PassKey" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
